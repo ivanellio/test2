@@ -1,2 +1,1 @@
-TEXT1
-NEW TEXTasdasd
+master
